@@ -16,3 +16,7 @@ Usem como consulta para saber quais arquivos manter no projeto de vocês.
     ``` bash
         npm start
     ```
+- Para parar a execução de um projeto
+  ``` bash
+        ctrl + c
+    ```
