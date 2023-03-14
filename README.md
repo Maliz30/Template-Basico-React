@@ -1,6 +1,6 @@
 # Template-Basico-React
 
-## Usem como consulta para saber quais arquivos manter no projeto de vocês.
+Usem como consulta para saber quais arquivos manter no projeto de vocês.
 
 - Pra criar o template no computador de vocês, devem usar o 
     ``` bash
